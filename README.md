@@ -1,5 +1,5 @@
 # vue-manage
-==声明: B站up非本人，本人仅是提供跟敲代码==
+！！！**声明: B站up非本人，本人仅是提供跟敲代码**
 B站视频地址: https://www.bilibili.com/video/BV1QU4y1E7qo?p=1
 
 - 实现视频中提到的所有功能，测试无bug，可以放心使用
